@@ -64,6 +64,15 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 int current = 1;
 
+while(current <= n)
+{
+    if(current % 2 == 0)
+    
+    Console.Write(current + " ");
+    current++;
+}
+
+
 
     
 
